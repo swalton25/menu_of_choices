@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ myMenu(int)
+comment1.params=a\ b
+comment1.target=int[][]\ add(int[][],\ int[][])
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=boolean\ checkValidAdd(int[][],\ int[][])
+comment3.params=a\ number
+comment3.target=int[][]\ scalarMultiply(int[][],\ int)
+comment4.params=a\ b
+comment4.target=int[][]\ multiply(int[][],\ int[][])
+comment5.params=a\ b
+comment5.target=boolean\ checkingValidMultiplication(int[][],\ int[][])
+comment6.params=a
+comment6.target=int\ determinant(int[][])
+comment7.params=
+comment7.target=int[][]\ findTheMatrixDimensions()
+comment8.params=a
+comment8.target=int[][]\ readingTheArray(int[][])
+comment9.params=a
+comment9.target=void\ printingTheArray(int[][])
+numComments=11
